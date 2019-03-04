@@ -1,0 +1,27 @@
+#surefire
+#Mon Mar 04 12:42:56 PST 2019
+classPathUrl.4=/home/vaishnavisuguru/.m2/repository/junit/junit/4.12/junit-4.12.jar
+testSuiteDefinitionTestSourceDirectory=/home/vaishnavisuguru/Desktop/simple-multi/app/src/test/java
+includes1=**/*Test.java
+classPathUrl.5=/home/vaishnavisuguru/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar
+includes2=**/*TestCase.java
+runOrder=filesystem
+includes0=**/Test*.java
+reportsDirectory=/home/vaishnavisuguru/Desktop/simple-multi/app/target/surefire-reports
+tc.0=app.AppTest
+surefireClassPathUrl.0=/home/vaishnavisuguru/.m2/repository/org/apache/maven/surefire/surefire-junit4/2.12.4/surefire-junit4-2.12.4.jar
+classPathUrl.0=/home/vaishnavisuguru/Desktop/simple-multi/app/target/test-classes
+classPathUrl.1=/home/vaishnavisuguru/Desktop/simple-multi/app/target/classes
+classPathUrl.2=/home/vaishnavisuguru/Desktop/simple-multi/util/target/util-1.0.jar
+classPathUrl.3=/home/vaishnavisuguru/.m2/repository/org/apache/commons/commons-lang3/3.6/commons-lang3-3.6.jar
+testClassesDirectory=/home/vaishnavisuguru/Desktop/simple-multi/app/target/test-classes
+useManifestOnlyJar=true
+runStatisticsFile=/home/vaishnavisuguru/Desktop/simple-multi/app/.surefire-5C90B857692DC506C64609BF3CF030824FAF276A
+providerConfiguration=org.apache.maven.surefire.junit4.JUnit4Provider
+failIfNoTests=false
+isTrimStackTrace=true
+surefireClassPathUrl.1=/home/vaishnavisuguru/.m2/repository/org/apache/maven/surefire/surefire-api/2.12.4/surefire-api-2.12.4.jar
+excludes0=**/*$*
+enableAssertions=true
+childDelegation=false
+useSystemClassLoader=true

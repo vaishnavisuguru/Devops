@@ -10,12 +10,12 @@
     <distributionManagement>
         <repository>
           <id>releases</id>
-          <name>Nexus Releases</name>
+          <name>Releases</name>
           <url>http://10.0.2.15:8081/nexus/content/repositories/releases/</url>
         </repository>
         <snapshotRepository>
             <id>snapshots</id>
-            <name>Nexus Snapshot</name>
+            <name>Snapshots</name>
             <url>http://10.0.2.15:8081/nexus/content/repositories/snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
@@ -23,9 +23,10 @@
  
     <groupId>org.codetab</groupId>
     <artifactId>simple-multi</artifactId>
-    <version>1.0</version>
+    <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
-    <name>Maven Simple Multi Module Example</name>
+    <name>simple-multi</name>
+    <url>https://github.com/vaishnavisuguru/devops</url>
 
     <modules>
         <module>app</module>
